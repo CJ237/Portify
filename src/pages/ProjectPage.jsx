@@ -2,7 +2,7 @@ import React from 'react';
 import Jate from '../assets/JATE.png';
 import Tech from '../assets/Techblog.png';
 import Retro from '../assets/RetroNet.png';
-import Blog from '../assets/personalBlog.png';
+import Blog from '../assets/PersonalBlog.png';
 import Weather from '../assets/weatherApp.png';
 import Note from '../assets/noteTaker.png';
 
