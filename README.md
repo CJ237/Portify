@@ -46,4 +46,4 @@ Email me.
 
 * Email: cjthompson562@gmail.com
 * github repository: https://github.com/CJ237/Portify
-* Render link: portify123.netlify.app
+* Render link: [portify123.netlify.app](https://portify123.netlify.app/)
