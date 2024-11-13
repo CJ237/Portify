@@ -45,5 +45,5 @@ Email me.
 ### Questions
 
 * Email: cjthompson562@gmail.com
-* github repository: https://github.com/CJ237/react-Portfolio
+* github repository: https://github.com/CJ237/Portify
 * Render link: portify123.netlify.app
